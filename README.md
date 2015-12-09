@@ -13,7 +13,9 @@ Lecturing On A Basic Concept Of New Programming Thinking- Mainly "Don't Calculat
 <br/>
 <hr/>
 
-##<a title="PayPal - The safer, easier way to pay online!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7994YX29444PA&lc=IL&item_name=Elad%20Karako%27s%20HOSTS&item_number=for_hosts_eladkarako_com&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank" rel="nofollow">Help Maintaining The Product, Or Donate Some Mon(k)ey *(no ![No Bananas!!](_resources/banana.gif))* To Keep It Alive</a>,
+<a title="PayPal - The safer, easier way to pay online!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7994YX29444PA&lc=IL&item_name=Elad%20Karako%27s%20HOSTS&item_number=for_hosts_eladkarako_com&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank" rel="nofollow">Help Maintaining The Product, Or Donate Some Mon(k)ey <br/>
+*(no more ![No Bananas!!](_resources/banana.gif)!!)* <br/>
+..To Keep It Alive</a>,
 ###It Really Helps!!!
 
 Thanks.
