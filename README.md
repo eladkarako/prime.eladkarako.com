@@ -1,7 +1,7 @@
 # <a href="http://prime.eladkarako.com" rel="nofollow" target="_blank">--&gt; prime.eladkarako.com</a>
 A Modern Approach On Checking If A Number Is A "Prime-Number",
 The *Internet* Is Filled With Half-A$$ Calculators And Weird "Efficient" Techniques And Rules,
-My Take On It Is Simple, A Bunch Of "Digestible" Data, Which Can Be Processed Quicly, "Downloaded" (A More
+My Take On It Is Simple, A Bunch Of "Digestible" Data-Files, Which Can Be Processed Quicly, "Downloaded" (A More
 Accurate Phrase Is "Fetched") On-Demand (A.K.A "On-The-Fly").
 
 This Is An Example, 
