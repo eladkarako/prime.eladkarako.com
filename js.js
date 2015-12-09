@@ -21,7 +21,7 @@ text.onkeydown = function (ev) {
 
   return -1 !== [
       48, 49, 50, 51, 52, 53, 54, 55, 56, 57
-      , 13/*ENTER*/, 17/*CTRL*/, 18/*ALT*/, 35/*END*/, 36/*HOME*/, 37/*LEFT*/, 38/*UP*/, 39/*RIGHT*/, 40/*DOWN*/, 46/*DELETE*/, 8/*BACKSPACE*/, 116/*F5*/
+      , 13/*ENTER*/, 17/*CTRL*/, 18/*ALT*/, 35/*END*/, 36/*HOME*/, 37/*LEFT*/, 38/*UP*/, 39/*RIGHT*/, 40/*DOWN*/, 46/*DELETE*/, 8/*BACKSPACE*/, 116/*F5*/, 123/*F12*/
     ].indexOf(ev.keyCode)
 };
 
