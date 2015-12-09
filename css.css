@@ -22,7 +22,7 @@ html:hover, body:hover, input:hover {
 
 input {
   text-align: center;
-  font-size:  calc( 22vmin + 3vmax );
+  font-size:  calc(25vmin);
 }
 
 /* normalize HTML input type="number". */
